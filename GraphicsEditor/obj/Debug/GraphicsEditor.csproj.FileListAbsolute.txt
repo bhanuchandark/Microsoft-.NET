@@ -1,0 +1,9 @@
+E:\MicroSoft .NET\lab\IndianCitizen\GraphicsEditor\bin\Debug\GraphicsEditor.exe.config
+E:\MicroSoft .NET\lab\IndianCitizen\GraphicsEditor\bin\Debug\GraphicsEditor.exe
+E:\MicroSoft .NET\lab\IndianCitizen\GraphicsEditor\bin\Debug\GraphicsEditor.pdb
+E:\MicroSoft .NET\lab\IndianCitizen\GraphicsEditor\obj\Debug\GraphicsEditor.csprojResolveAssemblyReference.cache
+E:\MicroSoft .NET\lab\IndianCitizen\GraphicsEditor\obj\Debug\GraphicsEditor.Form1.resources
+E:\MicroSoft .NET\lab\IndianCitizen\GraphicsEditor\obj\Debug\GraphicsEditor.Properties.Resources.resources
+E:\MicroSoft .NET\lab\IndianCitizen\GraphicsEditor\obj\Debug\GraphicsEditor.csproj.GenerateResource.Cache
+E:\MicroSoft .NET\lab\IndianCitizen\GraphicsEditor\obj\Debug\GraphicsEditor.exe
+E:\MicroSoft .NET\lab\IndianCitizen\GraphicsEditor\obj\Debug\GraphicsEditor.pdb

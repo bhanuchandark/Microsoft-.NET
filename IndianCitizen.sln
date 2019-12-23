@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicsEditor", "GraphicsEditor\GraphicsEditor.csproj", "{A539BCD2-3C60-478B-8054-DCD1652E34C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOL", "BOL\BOL.csproj", "{20D4E003-5CC0-439B-BDA4-27D734A5E32D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Manager", "Project Manager\Project Manager.csproj", "{55D33E91-0555-4D47-B2A5-5501CB5467AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransflowerOnline", "TransflowerOnline\TransflowerOnline.csproj", "{0D212312-E5C9-4FAF-BD40-746CB8018905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A539BCD2-3C60-478B-8054-DCD1652E34C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A539BCD2-3C60-478B-8054-DCD1652E34C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A539BCD2-3C60-478B-8054-DCD1652E34C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A539BCD2-3C60-478B-8054-DCD1652E34C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D4E003-5CC0-439B-BDA4-27D734A5E32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D4E003-5CC0-439B-BDA4-27D734A5E32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D4E003-5CC0-439B-BDA4-27D734A5E32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D4E003-5CC0-439B-BDA4-27D734A5E32D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D33E91-0555-4D47-B2A5-5501CB5467AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D33E91-0555-4D47-B2A5-5501CB5467AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D33E91-0555-4D47-B2A5-5501CB5467AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D33E91-0555-4D47-B2A5-5501CB5467AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D212312-E5C9-4FAF-BD40-746CB8018905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D212312-E5C9-4FAF-BD40-746CB8018905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D212312-E5C9-4FAF-BD40-746CB8018905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D212312-E5C9-4FAF-BD40-746CB8018905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

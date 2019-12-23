@@ -1,0 +1,5 @@
+E:\MicroSoft .NET\lab\IndianCitizen\BOL\bin\Debug\BOL.dll
+E:\MicroSoft .NET\lab\IndianCitizen\BOL\bin\Debug\BOL.pdb
+E:\MicroSoft .NET\lab\IndianCitizen\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+E:\MicroSoft .NET\lab\IndianCitizen\BOL\obj\Debug\BOL.dll
+E:\MicroSoft .NET\lab\IndianCitizen\BOL\obj\Debug\BOL.pdb

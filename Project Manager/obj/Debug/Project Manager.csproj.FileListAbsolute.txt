@@ -1,0 +1,11 @@
+E:\MicroSoft .NET\lab\IndianCitizen\Project Manager\bin\Debug\Project Manager.exe.config
+E:\MicroSoft .NET\lab\IndianCitizen\Project Manager\bin\Debug\Project Manager.exe
+E:\MicroSoft .NET\lab\IndianCitizen\Project Manager\bin\Debug\Project Manager.pdb
+E:\MicroSoft .NET\lab\IndianCitizen\Project Manager\bin\Debug\BOL.dll
+E:\MicroSoft .NET\lab\IndianCitizen\Project Manager\bin\Debug\BOL.pdb
+E:\MicroSoft .NET\lab\IndianCitizen\Project Manager\obj\Debug\Project Manager.csprojResolveAssemblyReference.cache
+E:\MicroSoft .NET\lab\IndianCitizen\Project Manager\obj\Debug\Project_Manager.Form1.resources
+E:\MicroSoft .NET\lab\IndianCitizen\Project Manager\obj\Debug\Project_Manager.Properties.Resources.resources
+E:\MicroSoft .NET\lab\IndianCitizen\Project Manager\obj\Debug\Project Manager.csproj.GenerateResource.Cache
+E:\MicroSoft .NET\lab\IndianCitizen\Project Manager\obj\Debug\Project Manager.exe
+E:\MicroSoft .NET\lab\IndianCitizen\Project Manager\obj\Debug\Project Manager.pdb
